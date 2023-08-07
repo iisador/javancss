@@ -16,7 +16,7 @@
   <!ENTITY METRIC      "javancss/packages/package/functions">
   <!ENTITY SHORTMETRIC "functions">
 ]>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns="http://www.w3.org/2000/svg">
 
 
 <!-- global variables -->

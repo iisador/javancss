@@ -15,7 +15,7 @@
   <!ENTITY METRIC      "javancss/functions/function/ccn">
   <!ENTITY SHORTMETRIC "ccn">
 ]>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns="http://www.w3.org/2000/svg">
 
 
 <!-- global variables -->
@@ -45,9 +45,6 @@
 
 
 <xsl:template match="/">
-  <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd"&gt;
-</xsl:text>
-
  <svg width="436pt" height="327pt" viewBox="0 0 4360 3270">
  <rect x="40" y="30" width="4320" height="3240" style="fill:silver;"/>
  <rect x="3" y="3" width="4314" height="3234" style="fill:white; stroke-width:6; stroke:black"/>
