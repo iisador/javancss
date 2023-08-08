@@ -1,0 +1,5 @@
+D:\\workspace\\ppod\\fns\\fns.web
+D:\\workspace\\ppod\\fns\\espd.portlet.common
+D:\\workspace\\ppod\\fns\\fns.domain
+D:\\workspace\\ppod\\fns\\espd.jdbc.common
+D:\\workspace\\ppod\\fns\\fns.message

@@ -1,0 +1,4 @@
+D:\\workspace\\ppod\\fns\\fns.exchange
+D:\\workspace\\ppod\\fns\\camelWorkManager
+D:\\workspace\\ppod\\fns\\fns.message
+D:\\workspace\\ppod\\fns\\espd.jdbc.common
